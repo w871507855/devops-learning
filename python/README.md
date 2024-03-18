@@ -11,3 +11,4 @@
 - 新建虚拟环境，环境名称叫test,使用python3.9 `conda create test python=3.9`
 - 激活虚拟环境 `conda activate test`
 - 推出虚拟环境 `conda deactivate test`
+
